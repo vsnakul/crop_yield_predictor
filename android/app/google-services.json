@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "699883211174",
+    "project_id": "authentications-c71c2",
+    "storage_bucket": "authentications-c71c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699883211174:android:1ccf7265dce1cf292c6767",
+        "android_client_info": {
+          "package_name": "com.example.crop_yield_predictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699883211174-stmvbr17k8lkalbavargd520o0lqjh2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC34hq3lEfxzcP_wfujNm1C4C6ccbrGHlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699883211174-stmvbr17k8lkalbavargd520o0lqjh2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699883211174:android:e659ffd23ff7674d2c6767",
+        "android_client_info": {
+          "package_name": "com.example.cropyield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699883211174-cjvukfj5pt6dtmqelt13tc7kv6bosfs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cropyield",
+            "certificate_hash": "f9bac85d02c4ebf7702a656a41a5cb6bcc1dd6e8"
+          }
+        },
+        {
+          "client_id": "699883211174-stmvbr17k8lkalbavargd520o0lqjh2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC34hq3lEfxzcP_wfujNm1C4C6ccbrGHlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699883211174-stmvbr17k8lkalbavargd520o0lqjh2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
