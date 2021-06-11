@@ -10,7 +10,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 
 import 'dart:convert';
 
-import 'package:toast/toast.dart';
 
 class Profile extends StatelessWidget{
 
@@ -30,7 +29,6 @@ class Profile extends StatelessWidget{
     DocumentReference users = FirebaseFirestore.instance.collection('users').doc(firebaseAuth.currentUser!.uid.toString());
     Future<void> addUser() {
       print("++++++++++++"+firebaseAuth.currentUser!.uid);
-      Toast.show("Details succesfully updated in the databasse", context,duration: Toast.LENGTH_SHORT, gravity:  Toast.BOTTOM);
       // Call the user's CollectionReference to add a new user
       return users
           .set({
